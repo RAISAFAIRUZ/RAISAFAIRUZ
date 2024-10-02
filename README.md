@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 I’m currently learning javascript, brushing python skills<br>🪄 Fun fact I love ice cream 🍦
+📝 I’m currently learning javascript, brushing up my python skills<br>🪄 Fun fact I love ice cream 🍦
 
 
 ## 🌐 Socials:
